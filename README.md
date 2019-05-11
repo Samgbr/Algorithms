@@ -1,4 +1,4 @@
-# Algorithms
+### Algorithms (Python)
 
 In this repository I have implemented different algorithms using dynamic programming and other methods.
 
